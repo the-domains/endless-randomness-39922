@@ -1,4 +1,13 @@
+name: endless randomness
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea61e5e6-4cec-4fc4-ab79-9c63678a574a.jpg
+layout_spectrum: 0.11061064633070537
 typography_spectrum: 0.7610486538360578
+analytics:
+  twitter: '@mdnzero'
+opengraph:
+  type: ''
+  appId: '1102225679823534'
 color:
   brandColors:
     - '#25064D'
@@ -10,22 +19,19 @@ color:
   lightness: 0.5085780318886374
   saturation: 0.9556485610686721
   rhythmicContrast: 0.28191507417256806
-github: true
-opengraph:
-  appId: '1102225679823534'
-layout_spectrum: 0.11061064633070537
-analytics:
-  twitter: '@mdnzero'
+purpose:
+  - type: external
+    label: home
+    url: 'http://pilido.com'
+  - type: contact
+    label: Call 91463336
+    url: 'tel:91463336'
+title: 'Photo, Life, Domains'
+description: The never ending randomness and cats
 author:
   name: mdno jx
-name: endless randomness
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
+content_rating:
+  adult: false
 navigation:
   - name: Gallery
     id: ceeec230-fb7c-4bda-936c-85f4537bdbd8
@@ -36,15 +42,5 @@ navigation:
   - name: Photo Contest
     id: 567f2e79-b9c6-4258-b2c3-bc728b63cae9
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea61e5e6-4cec-4fc4-ab79-9c63678a574a.jpg
-title: 'Photo, Love, Domains'
 content: []
-description: The never ending randomness and cats
-purpose:
-  - type: external
-    url: 'http://pilido.com'
-    label: home
-  - type: contact
-    url: 'tel:91463336'
-    label: Call 91463336
+github: true
