@@ -1,4 +1,3 @@
-layout_spectrum: 0.11061064633070537
 typography_spectrum: 0.7610486538360578
 color:
   brandColors:
@@ -11,8 +10,14 @@ color:
   lightness: 0.5085780318886374
   saturation: 0.9556485610686721
   rhythmicContrast: 0.28191507417256806
+github: true
+opengraph:
+  appId: '1102225679823534'
+layout_spectrum: 0.11061064633070537
 analytics:
   twitter: '@mdnzero'
+author:
+  name: mdno jx
 name: endless randomness
 colors:
   brandColors:
@@ -25,9 +30,11 @@ navigation:
   - name: Gallery
     id: ceeec230-fb7c-4bda-936c-85f4537bdbd8
     type: content
-  - name: About Us
+  - name: Cats
     id: 62267dc6-61e6-4354-b0d9-19935de1cb02
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea61e5e6-4cec-4fc4-ab79-9c63678a574a.jpg
 title: Picture-Life-Domain
 content: []
 description: The never ending randomness and cats
@@ -38,10 +45,3 @@ purpose:
   - type: contact
     url: 'tel:91463336'
     label: Call 91463336
-github: true
-opengraph:
-  appId: '1102225679823534'
-author:
-  name: mdno jx
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea61e5e6-4cec-4fc4-ab79-9c63678a574a.jpg
