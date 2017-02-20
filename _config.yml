@@ -23,9 +23,6 @@ purpose:
   - type: external
     label: home
     url: 'http://pilido.com'
-  - type: contact
-    label: Call 91463336
-    url: 'tel:91463336'
 title: 'Photo, Life, Domains'
 description: The never ending randomness and cats
 author:
