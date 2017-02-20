@@ -35,6 +35,9 @@ purpose:
   - type: external
     url: 'http://pilido.com'
     label: home
+  - type: contact
+    url: 'tel:91463336'
+    label: Call 91463336
 github: true
 opengraph:
   appId: '1102225679823534'
