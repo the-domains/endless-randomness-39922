@@ -1,0 +1,44 @@
+layout_spectrum: 0.11061064633070537
+typography_spectrum: 0.7610486538360578
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.7895404463700286
+  lightness: 0.5085780318886374
+  saturation: 0.9556485610686721
+  rhythmicContrast: 0.28191507417256806
+analytics:
+  twitter: '@mdnzero'
+name: endless randomness
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Gallery
+    id: ceeec230-fb7c-4bda-936c-85f4537bdbd8
+    type: content
+  - name: About Us
+    id: 62267dc6-61e6-4354-b0d9-19935de1cb02
+    type: content
+title: Picture-Life-Domain
+content: []
+description: The never ending randomness and cats
+purpose:
+  - type: external
+    url: 'http://pilido.com'
+    label: home
+github: true
+opengraph:
+  appId: '1102225679823534'
+author:
+  name: mdno jx
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea61e5e6-4cec-4fc4-ab79-9c63678a574a.jpg
