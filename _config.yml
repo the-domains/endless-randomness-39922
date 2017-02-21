@@ -29,9 +29,6 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: Gallery
-    id: ceeec230-fb7c-4bda-936c-85f4537bdbd8
-    type: content
   - name: Cats
     id: 62267dc6-61e6-4354-b0d9-19935de1cb02
     type: content
