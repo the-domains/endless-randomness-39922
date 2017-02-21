@@ -23,9 +23,6 @@ purpose:
   - type: external
     label: home
     url: 'http://pilido.com'
-  - type: contact
-    label: contact
-    url: 'tel:82981654'
 title: 'Photo, Life, Domains'
 description: The never ending randomness and cats
 author:
