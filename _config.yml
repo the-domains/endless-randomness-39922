@@ -29,6 +29,9 @@ navigation:
   - name: Photo Contest
     id: 567f2e79-b9c6-4258-b2c3-bc728b63cae9
     type: content
+  - name: Gallery of Randomness
+    id: ceeec230-fb7c-4bda-936c-85f4537bdbd8
+    type: content
 favicon: null
 title: 'Pitures, Life, Dominance'
 content: []
