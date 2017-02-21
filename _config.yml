@@ -23,9 +23,6 @@ author:
   name: mdno jx
 name: endless randomness
 navigation:
-  - name: Cats
-    id: 62267dc6-61e6-4354-b0d9-19935de1cb02
-    type: content
   - name: Photo Contest
     id: 567f2e79-b9c6-4258-b2c3-bc728b63cae9
     type: content
