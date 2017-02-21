@@ -13,8 +13,8 @@ keywords:
   - museum
   - exploration
 title: NASA - A Human Adventure
-datePublished: '2017-02-20T05:54:03.969Z'
-dateModified: '2017-02-20T05:51:57.841Z'
+datePublished: '2017-02-21T09:50:55.542Z'
+dateModified: '2017-02-21T09:50:53.059Z'
 publisher:
   name: Marinabaysands
   domain: www.marinabaysands.com
@@ -26,9 +26,9 @@ description: >-
   Inspire your imagination at the largest space flight exhibition ever held in
   Singapore.
 via: {}
+sourcePath: _posts/2017-02-19-nasa-a-human-adventure.md
 starred: true
 datePublishedOriginal: '2017-02-19T14:53:46.860Z'
-sourcePath: _posts/2017-02-19-nasa-a-human-adventure.md
 _type: MediaObject
 _context: 'http://schema.org'
 
