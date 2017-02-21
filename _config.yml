@@ -1,5 +1,6 @@
-layout_spectrum: 0.928606629164908
 typography_spectrum: 0.05056402685148365
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#25064D'
@@ -11,23 +12,16 @@ color:
   lightness: 0.5095796808623478
   saturation: 0.9571182101711372
   rhythmicContrast: 0.2801106904612135
-name: endless randomness
-favicon: null
-analytics:
-  twitter: '@mdnzero'
+github: true
 opengraph:
   type: ''
   appId: '1102225679823534'
-purpose:
-  - type: external
-    label: home
-    url: 'http://pilido.com'
-title: 'Pitures, Life, Dominance'
-description: The never ending randomness and cats
+layout_spectrum: 0.928606629164908
+analytics:
+  twitter: '@mdnzero'
 author:
   name: mdno jx
-content_rating:
-  adult: false
+name: endless randomness
 navigation:
   - name: Cats
     id: 62267dc6-61e6-4354-b0d9-19935de1cb02
@@ -35,5 +29,14 @@ navigation:
   - name: Photo Contest
     id: 567f2e79-b9c6-4258-b2c3-bc728b63cae9
     type: content
+  - name: cats
+    id: 9b84bce0-0d47-48a1-a842-5f51af236e64
+    type: content
+favicon: null
+title: 'Pitures, Life, Dominance'
 content: []
-github: true
+description: The never ending randomness and cats
+purpose:
+  - type: external
+    label: home
+    url: 'http://pilido.com'
