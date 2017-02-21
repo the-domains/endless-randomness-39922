@@ -4,9 +4,9 @@
         <description><![CDATA[Photo, Life, Domains]]></description>
         <link>http://pilido.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Feb 2017 09:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2017 09:51:29 GMT</lastBuildDate>
         <atom:link href="http://pilido.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Feb 2017 09:50:58 GMT</pubDate>
+        <pubDate>Tue, 21 Feb 2017 09:50:59 GMT</pubDate>
         <item>
             <title><![CDATA[This is PRATA!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5c83948-3dc5-4d96-8a21-c61b45f6aa27.jpg">,<h1>This is PRATA!</h1>]]></description>
@@ -29,18 +29,18 @@
             <pubDate>Tue, 21 Feb 2017 09:46:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Olympus Photo Changellene]]></title>
+            <description><![CDATA[<h1>Olympus Photo Changellene</h1>,<article><h1>Olympusphere Photo Contest</h1><p>Olympus Singapore has launched Olympusphere, an online photo community for Olympus users to share, learn and interact. Start showcasing your photos today and earn points to enjoy exciting benefits.</p><img src="http://olympusphere.com/st/sgp/photocontest/cos/images/main_visual.jpg"></article>]]></description>
+            <link>http://pilido.com/olympus-photo-changellene/index.html</link>
+            <guid isPermaLink="false">567f2e79-b9c6-4258-b2c3-bc728b63cae9</guid>
+            <pubDate>Mon, 20 Feb 2017 05:26:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NASA - A Human Adventure]]></title>
             <description><![CDATA[<article><h1>NASA - A Human Adventure</h1><p>Inspire your imagination at the largest space flight exhibition ever held in Singapore.</p><img src="http://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/museum/nasa/nasa-space-shuttle-940x340.jpg"></article>]]></description>
             <link>http://www.marinabaysands.com/museum/nasa-a-human-adventure.html</link>
             <guid isPermaLink="false">48749632-b2b6-4c25-b29e-38f9a7da84db</guid>
             <pubDate>Sun, 19 Feb 2017 14:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olympus Photo Changellene]]></title>
-            <description><![CDATA[<h1>Olympus Photo Changellene</h1>,<article><h1>Olympusphere Photo Contest</h1><p>Olympus Singapore has launched Olympusphere, an online photo community for Olympus users to share, learn and interact. Start showcasing your photos today and earn points to enjoy exciting benefits.</p><img src="http://olympusphere.com/st/sgp/photocontest/cos/images/main_visual.jpg"></article>]]></description>
-            <link>http://olympusphere.com/st/sgp/photocontest/cos/</link>
-            <guid isPermaLink="false">567f2e79-b9c6-4258-b2c3-bc728b63cae9</guid>
-            <pubDate>Mon, 20 Feb 2017 05:26:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
