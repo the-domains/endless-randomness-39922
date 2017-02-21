@@ -29,9 +29,6 @@ navigation:
   - name: Photo Contest
     id: 567f2e79-b9c6-4258-b2c3-bc728b63cae9
     type: content
-  - name: cats
-    id: 9b84bce0-0d47-48a1-a842-5f51af236e64
-    type: content
 favicon: null
 title: 'Pitures, Life, Dominance'
 content: []
