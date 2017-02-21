@@ -4,8 +4,8 @@ description: >-
   Olympus Singapore has launched Olympusphere, an online photo community for
   Olympus users to share, learn and interact. Start showcasing your photos today
   and earn points to enjoy exciting benefits.
-dateModified: '2017-02-20T05:26:41.893Z'
-datePublished: '2017-02-20T05:26:42.749Z'
+dateModified: '2017-02-21T09:50:53.059Z'
+datePublished: '2017-02-21T09:50:55.058Z'
 title: Olympus Photo Changellene
 author: []
 publisher:
@@ -14,11 +14,12 @@ publisher:
   favicon: 'http://olympusphere.com/common/img/favicon.ico'
   domain: olympusphere.com
 via: {}
+sourcePath: _posts/2017-02-20-olympus-photo-changellene.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-20T05:26:42.749Z'
-isBasedOnUrl: 'http://olympusphere.com/st/sgp/photocontest/cos/'
-sourcePath: _posts/2017-02-20-olympus-photo-changellene.md
-_type: MediaObject
+url: olympus-photo-changellene/index.html
+_type: Article
 
 ---
 # Olympus Photo Changellene
