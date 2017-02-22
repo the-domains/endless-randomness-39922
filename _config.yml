@@ -37,3 +37,6 @@ purpose:
   - type: external
     label: home
     url: 'http://pilido.com'
+  - type: external
+    url: 'http://ap.uniregistry.com/click?aid=966666kY'
+    label: UR Free Site
